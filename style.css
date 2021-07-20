@@ -1,0 +1,30 @@
+
+    
+
+    h1 {color:#a3d555}
+
+    .header{
+        background-color:#c391aa ;
+        display:flex;
+        justify-content: space-between;
+    }
+
+    .game{
+        background-color:#c45bda;
+    }
+
+    .games{
+        background-color: #b3d511;
+        display:flex;
+        justify-content: space-evenly;
+    }
+
+    .social{
+        background-color:#a2b3f6;
+        display:flex;
+        justify-content: flex-end;
+    }
+
+    body{
+        background-color:#d4a6f3;
+    }
